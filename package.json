@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "pdf-text-extract": "^1.5.0",
+    "pdf.js-extract": "^0.1.2",
+    "pdf2html": "^2.5.0"
   }
 }
